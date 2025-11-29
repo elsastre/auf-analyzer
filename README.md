@@ -50,3 +50,7 @@ To reseed the database:
 - `scripts/` helper scripts (Windows)
 
 Spanish README: `README.es.md`
+
+## Interactive demo (Supademo)
+https://app.supademo.com/demo/cmijsi27zfpv1b7b48ab0lapf?utm_source=link
+
