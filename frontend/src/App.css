@@ -1,0 +1,544 @@
+:root {
+  color: #e5e7eb;
+  background-color: #020617;
+  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.app {
+  min-height: 100vh;
+  background: #020617;
+  color: #e5e7eb;
+  padding: 1.5rem;
+}
+
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 1.75rem;
+}
+
+.muted {
+  color: #9ca3af;
+  margin: 0.2rem 0;
+}
+
+.selectors {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.nav {
+  display: flex;
+  gap: 0.75rem;
+  margin: 0 0 1rem 0;
+  flex-wrap: wrap;
+}
+
+.nav-link {
+  padding: 0.5rem 0.9rem;
+  border-radius: 10px;
+  background: #111827;
+  color: #e5e7eb;
+  text-decoration: none;
+  border: 1px solid #1f2937;
+}
+
+.nav-link.active {
+  background: linear-gradient(135deg, #2563eb, #7c3aed);
+  border-color: #2563eb;
+}
+
+.content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.section {
+  background: #0b1224;
+  border: 1px solid #111827;
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.section-header h2 {
+  margin: 0 0 0.15rem 0;
+}
+
+.section-header p {
+  margin: 0;
+}
+
+.tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.tab {
+  padding: 0.45rem 0.8rem;
+  border-radius: 10px;
+  border: 1px solid #1f2937;
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
+.tab.active {
+  background: #2563eb;
+  border-color: #2563eb;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 980px;
+  table-layout: fixed;
+}
+
+.data-table th,
+.data-table td {
+  padding: 0.55rem 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #1f2937;
+  white-space: nowrap;
+}
+
+.data-table td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.data-table thead th {
+  position: sticky;
+  top: 0;
+  background: #0f172a;
+  z-index: 1;
+}
+
+.standings-table .col-n {
+  width: 40px;
+}
+
+.standings-table .col-team {
+  width: 220px;
+}
+
+.standings-table th:nth-child(4),
+.standings-table th:nth-child(5),
+.standings-table th:nth-child(6),
+.standings-table th:nth-child(7),
+.standings-table th:nth-child(8),
+.standings-table th:nth-child(9) {
+  width: 60px;
+}
+
+.standings-table th:nth-child(10),
+.standings-table th:nth-child(11) {
+  width: 70px;
+}
+
+.standings-table th:nth-child(12) {
+  width: 110px;
+}
+
+.team-cell {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.team-cell,
+.player-cell {
+  min-width: 0;
+}
+
+.team-name,
+.player-name {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+  white-space: nowrap;
+}
+
+.team-logo {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+}
+
+.mono {
+  font-variant-numeric: tabular-nums;
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+.numeric-cell {
+  text-align: right;
+}
+
+.score-cell {
+  text-align: center;
+  font-weight: 700;
+}
+
+.truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.last5 {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.pill {
+  width: 18px;
+  height: 18px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  font-weight: 700;
+  background: #1f2937;
+  color: #e5e7eb;
+}
+
+.pill.win {
+  background: #22c55e;
+  color: #0b1224;
+}
+
+.pill.draw {
+  background: #fbbf24;
+  color: #0b1224;
+}
+
+.pill.loss {
+  background: #f87171;
+  color: #0b1224;
+}
+
+.pill.empty {
+  background: #111827;
+  color: #111827;
+}
+
+.selector {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  color: #e5e7eb;
+  font-size: 0.9rem;
+}
+
+.selector select {
+  background: #0f172a;
+  color: #e5e7eb;
+  border: 1px solid #1f2937;
+  border-radius: 10px;
+  padding: 0.4rem 0.6rem;
+}
+
+.selector-row {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.chart-wrapper {
+  background: #0f172a;
+  border: 1px solid #1f2937;
+  border-radius: 12px;
+  padding: 0.75rem;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1rem;
+}
+
+.stat-card {
+  background: #0f172a;
+  border: 1px solid #1f2937;
+  border-radius: 12px;
+  padding: 0.75rem;
+}
+
+.stat-card h4 {
+  margin: 0 0 0.35rem 0;
+}
+
+.form {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+
+.primary {
+  background: linear-gradient(135deg, #2563eb, #7c3aed);
+  color: #fff;
+  border: none;
+  padding: 0.55rem 0.95rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.ghost {
+  background: transparent;
+  color: #e5e7eb;
+  border: 1px solid #1f2937;
+  padding: 0.5rem 0.9rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.card {
+  background: #0f172a;
+  border: 1px solid #1f2937;
+  border-radius: 12px;
+  padding: 0.9rem;
+  margin-top: 0.5rem;
+}
+
+.mini-card {
+  background: #111827;
+  border-radius: 10px;
+  padding: 0.6rem;
+  flex: 1;
+}
+
+.mini-card ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.4rem 0 0 0;
+  color: #cbd5e1;
+}
+
+.fixtures-wrapper {
+  margin-top: 0.5rem;
+}
+
+.players-table {
+  min-width: 1280px;
+}
+
+.players-table th,
+.players-table td {
+  font-size: 0.85rem;
+}
+
+.players-table .team-cell {
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.players-table th:nth-child(1),
+.players-table td:nth-child(1) {
+  width: 260px;
+}
+
+.players-table th:nth-child(2),
+.players-table td:nth-child(2) {
+  width: 200px;
+}
+
+.players-table th:nth-child(3),
+.players-table td:nth-child(3) {
+  width: 90px;
+}
+
+.nation-cell {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.two-col {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.75rem;
+}
+
+.error {
+  color: #fb923c;
+}
+
+@media (max-width: 720px) {
+  .app {
+    padding: 1rem;
+  }
+  .app-header {
+    align-items: flex-start;
+  }
+}
+
+/* Mejoras para los gráficos */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+  gap: 1.5rem;
+}
+
+.card {
+  background: #0f172a;
+  border: 1px solid #1f2937;
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin-top: 0.5rem;
+}
+
+/* ===== FIXTURES TABLE - SOLUCIÓN DEFINITIVA ===== */
+.fixtures-wrapper {
+  margin-top: 0.5rem;
+  overflow-x: auto;
+  border: 1px solid #1f2937;
+  border-radius: 8px;
+  background: #0f172a;
+}
+
+.fixtures-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 1000px;
+  table-layout: fixed;
+}
+
+.fixtures-table th,
+.fixtures-table td {
+  padding: 0.6rem 0.5rem;
+  border-bottom: 1px solid #1f2937;
+  vertical-align: middle;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+/* DEFINICIÓN EXPLÍCITA DE ANCHOS DE COLUMNAS */
+.fixtures-table th:nth-child(1),
+.fixtures-table td:nth-child(1) { width: 100px; } /* Fecha */
+.fixtures-table th:nth-child(2),
+.fixtures-table td:nth-child(2) { width: 70px; }  /* Hora */
+.fixtures-table th:nth-child(3),
+.fixtures-table td:nth-child(3) { width: 70px; }  /* Ronda */
+.fixtures-table th:nth-child(4),
+.fixtures-table td:nth-child(4) { width: 180px; } /* Local */
+.fixtures-table th:nth-child(5),
+.fixtures-table td:nth-child(5) { width: 180px; } /* Visitante */
+.fixtures-table th:nth-child(6),
+.fixtures-table td:nth-child(6) { width: 90px; }  /* Resultado */
+.fixtures-table th:nth-child(7),
+.fixtures-table td:nth-child(7) { width: 110px; } /* Asistencia */
+.fixtures-table th:nth-child(8),
+.fixtures-table td:nth-child(8) { width: 150px; } /* Estadio */
+.fixtures-table th:nth-child(9),
+.fixtures-table td:nth-child(9) { width: 150px; } /* Árbitro */
+
+/* ESTILOS ESPECÍFICOS POR TIPO DE CELDA */
+.fixtures-table .mono {
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  font-size: 0.85rem;
+}
+
+.fixtures-table .score-cell {
+  text-align: center;
+  font-weight: 600;
+  color: #e5e7eb;
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.fixtures-table .numeric-cell {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.fixtures-table .truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* CELDAS DE EQUIPO - ESTRUCTURA SIMPLE */
+.fixtures-table .team-cell {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-width: 0;
+}
+
+.fixtures-table .team-logo {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.fixtures-table .team-name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1;
+  min-width: 0;
+}
+
+/* ESTILOS DE CABECERA */
+.fixtures-table thead th {
+  background: #1e293b;
+  color: #e5e7eb;
+  font-weight: 600;
+  font-size: 0.85rem;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+/* FILAS ALTERNAS PARA MEJOR LEGIBILIDAD */
+.fixtures-table tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.fixtures-table tbody tr:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* Fix: que se vean bien los números de posición (#) */
+.standings-table .col-n,
+.standings-table td:first-child {
+  width: 56px;        /* un poco más ancha */
+  max-width: 56px;
+  text-overflow: clip; /* sin ... para esta columna */
+}

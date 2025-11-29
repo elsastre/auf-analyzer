@@ -1,0 +1,1302 @@
+{
+  "season": 2024,
+  "source": "Planteles conocidos",
+  "teams": [
+    {
+      "name": "Nacional",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Sergio Rochet",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Ignacio Suárez",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 2002
+        },
+        {
+          "full_name": "Diego Polenta",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1992
+        },
+        {
+          "full_name": "Mathías Laborda",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1999
+        },
+        {
+          "full_name": "Leandro Lozano",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Gabriel Báez",
+          "position": "DF",
+          "nationality": "AR",
+          "birth_year": 1995
+        },
+        {
+          "full_name": "Daniel Bocanegra",
+          "position": "DF",
+          "nationality": "CO",
+          "birth_year": 1987
+        },
+        {
+          "full_name": "Yonatan Rodríguez",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1999
+        },
+        {
+          "full_name": "Felipe Carballo",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Diego Zabala",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1991
+        },
+        {
+          "full_name": "Alfonso Trezza",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1999
+        },
+        {
+          "full_name": "Francisco Ginella",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1999
+        },
+        {
+          "full_name": "Gastón Pereiro",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1995
+        },
+        {
+          "full_name": "Gonzalo Carneiro",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1995
+        },
+        {
+          "full_name": "Juan Ignacio Ramírez",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1997
+        }
+      ]
+    },
+    {
+      "name": "Peñarol",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Thiago Cardozo",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Washington Aguerre",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Hernán Menosse",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1987
+        },
+        {
+          "full_name": "Maximiliano Olivera",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1992
+        },
+        {
+          "full_name": "Leonardo Coelho",
+          "position": "DF",
+          "nationality": "BR",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Matías Aguirregaray",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1989
+        },
+        {
+          "full_name": "Damián Musto",
+          "position": "MF",
+          "nationality": "AR",
+          "birth_year": 1987
+        },
+        {
+          "full_name": "Sebastián Rodríguez",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1992
+        },
+        {
+          "full_name": "Walter Gargano",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1984
+        },
+        {
+          "full_name": "Pablo Ceppelini",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1991
+        },
+        {
+          "full_name": "Agustín Canobbio",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Matías Arezo",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2002
+        },
+        {
+          "full_name": "Cristian Olivera",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2002
+        },
+        {
+          "full_name": "Facundo Torres",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2000
+        },
+        {
+          "full_name": "Brian Lozano",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1994
+        }
+      ]
+    },
+    {
+      "name": "Danubio",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Sebastián Fuentes",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1990
+        },
+        {
+          "full_name": "Mauro Goicoechea",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1988
+        },
+        {
+          "full_name": "Fabricio Formiliano",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1992
+        },
+        {
+          "full_name": "Emanuel Gularte",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Sergio Felipe",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1994
+        },
+        {
+          "full_name": "José Luis Rodríguez",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1997
+        },
+        {
+          "full_name": "Leandro Sosa",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1994
+        },
+        {
+          "full_name": "Santiago Mederos",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Nicolás Prieto",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Leandro Navarro",
+          "position": "MF",
+          "nationality": "AR",
+          "birth_year": 1992
+        },
+        {
+          "full_name": "Sebastián Fernández",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1985
+        },
+        {
+          "full_name": "Guillermo May",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Juan Manuel Gutiérrez",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2000
+        }
+      ]
+    },
+    {
+      "name": "Defensor",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Kevin Dawson",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1992
+        },
+        {
+          "full_name": "Matías Castro",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1987
+        },
+        {
+          "full_name": "Rodrigo Rojo",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1989
+        },
+        {
+          "full_name": "Bruno Méndez",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1999
+        },
+        {
+          "full_name": "Sebastián Boselli",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 2003
+        },
+        {
+          "full_name": "Mathías Suárez",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Leonardo Pais",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1994
+        },
+        {
+          "full_name": "Gastón Togni",
+          "position": "MF",
+          "nationality": "AR",
+          "birth_year": 1997
+        },
+        {
+          "full_name": "Adrián Balboa",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1994
+        },
+        {
+          "full_name": "Andrés Ferrari",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2003
+        },
+        {
+          "full_name": "Ignacio Laquintana",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1999
+        },
+        {
+          "full_name": "Álvaro Navarro",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1985
+        }
+      ]
+    },
+    {
+      "name": "Liverpool",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Sebastián Lentinelly",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1997
+        },
+        {
+          "full_name": "Martín Correa",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1999
+        },
+        {
+          "full_name": "Federico Pereira",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 2000
+        },
+        {
+          "full_name": "Gonzalo Pérez",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 2001
+        },
+        {
+          "full_name": "Enzo Martínez",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Luciano Rodríguez",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2003
+        },
+        {
+          "full_name": "Fabricio Díaz",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 2003
+        },
+        {
+          "full_name": "Hernán Figueredo",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1985
+        },
+        {
+          "full_name": "Lucas Lemos",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1999
+        },
+        {
+          "full_name": "Alan Medina",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Thiago Vecino",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1999
+        },
+        {
+          "full_name": "Cristian Souza",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1995
+        },
+        {
+          "full_name": "Matías Ocampo",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2001
+        }
+      ]
+    },
+    {
+      "name": "Wanderers",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Mauro Silveira",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1997
+        },
+        {
+          "full_name": "Emiliano García",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Mathías Abero",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1990
+        },
+        {
+          "full_name": "Lucas Morales",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1994
+        },
+        {
+          "full_name": "Gerardo Alcoba",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1984
+        },
+        {
+          "full_name": "Bruno Veglio",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Diego Hernández",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 2000
+        },
+        {
+          "full_name": "Kevin Rolón",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1997
+        },
+        {
+          "full_name": "Diego Riolfo",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1989
+        },
+        {
+          "full_name": "Facundo Milan",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2001
+        },
+        {
+          "full_name": "Nicolás Albarracín",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Gastón Bueno",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1985
+        }
+      ]
+    },
+    {
+      "name": "Cerro Largo",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Ramiro Bentancur",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1995
+        },
+        {
+          "full_name": "Nicolás Vikonis",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1984
+        },
+        {
+          "full_name": "Facundo Rodríguez",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1997
+        },
+        {
+          "full_name": "Martín Ferreira",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1990
+        },
+        {
+          "full_name": "Ángel Cayetano",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1991
+        },
+        {
+          "full_name": "Sebastián Assis",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Yonathan Rak",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Hugo Dorrego",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Leandro Otormín",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Enzo Borges",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1986
+        },
+        {
+          "full_name": "Tomás Fernández",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1995
+        },
+        {
+          "full_name": "Lucas Di Yorio",
+          "position": "FW",
+          "nationality": "AR",
+          "birth_year": 1996
+        }
+      ]
+    },
+    {
+      "name": "Boston River",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Gonzalo Falcón",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Santiago Silva",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1990
+        },
+        {
+          "full_name": "Guillermo Fratta",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1995
+        },
+        {
+          "full_name": "Alexis Rolín",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1989
+        },
+        {
+          "full_name": "Juan Quintana",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1999
+        },
+        {
+          "full_name": "Alan Rodríguez",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 2000
+        },
+        {
+          "full_name": "José Alberti",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1997
+        },
+        {
+          "full_name": "Martín Fernández",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 2002
+        },
+        {
+          "full_name": "Emiliano Gómez",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2001
+        },
+        {
+          "full_name": "Facundo Labandeira",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Jonathan Urretaviscaya",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1990
+        },
+        {
+          "full_name": "Juan Manuel Gutiérrez",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2001
+        }
+      ]
+    },
+    {
+      "name": "Racing",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Lucero Álvarez",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1985
+        },
+        {
+          "full_name": "Federico Ramos",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1995
+        },
+        {
+          "full_name": "Ramón Arias",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1992
+        },
+        {
+          "full_name": "Facundo Bonifazi",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1990
+        },
+        {
+          "full_name": "Mathías Acuña",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1992
+        },
+        {
+          "full_name": "Leandro Paiva",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1994
+        },
+        {
+          "full_name": "José Varela",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Joaquín Ochoa Giménez",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Diego Arismendi",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1988
+        },
+        {
+          "full_name": "Nicolás Sosa Sánchez",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Gastón Colman",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1989
+        },
+        {
+          "full_name": "Tomás Verón Lupi",
+          "position": "FW",
+          "nationality": "AR",
+          "birth_year": 2000
+        }
+      ]
+    },
+    {
+      "name": "River Plate",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Salvador Ichazo",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1992
+        },
+        {
+          "full_name": "Lucas Machado",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Maximiliano Pereira",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1984
+        },
+        {
+          "full_name": "Facundo Laborda",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 2000
+        },
+        {
+          "full_name": "Sebastián Piriz",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1990
+        },
+        {
+          "full_name": "Nicolás Fonseca",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Gonzalo Castro",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1984
+        },
+        {
+          "full_name": "Thiago Borbas",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2002
+        },
+        {
+          "full_name": "Facundo Vigo",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1995
+        },
+        {
+          "full_name": "Joaquín Lavega",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2005
+        },
+        {
+          "full_name": "Matías Alonso",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1985
+        },
+        {
+          "full_name": "Ignacio Lorenzo",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1998
+        }
+      ]
+    },
+    {
+      "name": "Cerro",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Mathías Rolero",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1990
+        },
+        {
+          "full_name": "Rodrigo Formento",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1999
+        },
+        {
+          "full_name": "Franco López",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1992
+        },
+        {
+          "full_name": "Ignacio Neira",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Agustín Hernández",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Nicolás González",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1995
+        },
+        {
+          "full_name": "Luciano Boggio",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 2002
+        },
+        {
+          "full_name": "Matías Santos",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Emiliano Affonso",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1988
+        },
+        {
+          "full_name": "Facundo Peraza",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1995
+        },
+        {
+          "full_name": "Brahian Alemán",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1989
+        },
+        {
+          "full_name": "Sergio Núñez",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2000
+        }
+      ]
+    },
+    {
+      "name": "Plaza Colonia",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Santiago Mele",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1997
+        },
+        {
+          "full_name": "Nicolás Guirín",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1991
+        },
+        {
+          "full_name": "Federico Barrandeguy",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Yvo Calleros",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Ezequías Redín",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1989
+        },
+        {
+          "full_name": "Ramiro Quintana",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Álvaro Fernández",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1985
+        },
+        {
+          "full_name": "Cristian Rodríguez",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1985
+        },
+        {
+          "full_name": "Nicolás Dibble",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1994
+        },
+        {
+          "full_name": "Diogo de Oliveira",
+          "position": "FW",
+          "nationality": "BR",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Facundo Batista",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Leandro Suhr",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1997
+        }
+      ]
+    },
+    {
+      "name": "Progreso",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Nicola Pérez",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1990
+        },
+        {
+          "full_name": "Rodrigo Odriozola",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1988
+        },
+        {
+          "full_name": "Emanuel Beltrán",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1991
+        },
+        {
+          "full_name": "Danilo Asconeguy",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1989
+        },
+        {
+          "full_name": "Agustín Da Silveira",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Álvaro Fernández",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Gonzalo Andrada",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1997
+        },
+        {
+          "full_name": "Martín Marta",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 2001
+        },
+        {
+          "full_name": "Alexander Rosso",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Maximiliano Viera",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1990
+        },
+        {
+          "full_name": "Santiago Bellini",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Richard Dorrego",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1992
+        }
+      ]
+    },
+    {
+      "name": "Miramar Misiones",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Darío Denis",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Juan Tinaglini",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Ignacio Lemmo",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1994
+        },
+        {
+          "full_name": "Matías Soto",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Sebastián Cardozo",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1995
+        },
+        {
+          "full_name": "Federico Platero",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1991
+        },
+        {
+          "full_name": "Mathías Riquero",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1982
+        },
+        {
+          "full_name": "Agustín Lavezzi",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Facundo Silva",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1990
+        },
+        {
+          "full_name": "Santiago Bellini",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Rodrigo López",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1999
+        },
+        {
+          "full_name": "Federico Rodríguez",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1991
+        }
+      ]
+    },
+    {
+      "name": "Juventud de Las Piedras",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Rodrigo Rodríguez",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1994
+        },
+        {
+          "full_name": "Sebastián Britos",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1988
+        },
+        {
+          "full_name": "Matías Duffard",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1989
+        },
+        {
+          "full_name": "Andrés Rodales",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1984
+        },
+        {
+          "full_name": "Lucas Hernández",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1992
+        },
+        {
+          "full_name": "Gonzalo González",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1994
+        },
+        {
+          "full_name": "Diego Rodríguez",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1989
+        },
+        {
+          "full_name": "Juan Mascia",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1994
+        },
+        {
+          "full_name": "Nicolás Royón",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1989
+        },
+        {
+          "full_name": "Joaquín Zeballos",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Gastón Puerari",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 1985
+        },
+        {
+          "full_name": "Emiliano Ancheta",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1999
+        }
+      ]
+    },
+    {
+      "name": "Torque",
+      "source": "Plantel aproximado",
+      "players": [
+        {
+          "full_name": "Francisco Tinaglini",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Gastón Guruceaga",
+          "position": "GK",
+          "nationality": "UY",
+          "birth_year": 1995
+        },
+        {
+          "full_name": "Andrew Teuten",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Franco Pizzichillo",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Yonathan Rak",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1993
+        },
+        {
+          "full_name": "Agustín Peña",
+          "position": "DF",
+          "nationality": "UY",
+          "birth_year": 1989
+        },
+        {
+          "full_name": "José Álvarez",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 1996
+        },
+        {
+          "full_name": "Santiago Rodríguez",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 2000
+        },
+        {
+          "full_name": "Franco González",
+          "position": "MF",
+          "nationality": "UY",
+          "birth_year": 2004
+        },
+        {
+          "full_name": "Valentín Castellanos",
+          "position": "FW",
+          "nationality": "AR",
+          "birth_year": 1998
+        },
+        {
+          "full_name": "Sebastián Guerrero",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2000
+        },
+        {
+          "full_name": "Nicolás Siri",
+          "position": "FW",
+          "nationality": "UY",
+          "birth_year": 2004
+        }
+      ]
+    }
+  ]
+}

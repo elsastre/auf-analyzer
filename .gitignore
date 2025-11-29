@@ -1,0 +1,46 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+env/
+venv/
+
+# Scraper output
+data/standings_uruguay.csv
+
+# Node / frontend
+auf-frontend/node_modules/
+auf-frontend/dist/
+
+# Logs / entorno
+*.log
+.env
+
+# IDE / SO
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+# --- repo hygiene (añadidos) ---
+/package-lock.json
+/backend/package-lock.json
+*.zip
+
+# Datos generados por el backend
+/backend/data/*
+!/backend/data/standings_uruguay_sample.csv
+/**/standings_uruguay.csv
+backend/build/
+
+# Local env
+.env
+# Local SQLite DB
+backend/data/auf.db
+# Node
+frontend/node_modules
+frontend/dist
+# Python
+backend/.venv
+backend/__pycache__

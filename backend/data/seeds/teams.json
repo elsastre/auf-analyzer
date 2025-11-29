@@ -1,0 +1,149 @@
+{
+  "source": "Wikipedia / Transfermarkt (demo)",
+  "teams": [
+    {
+      "id": 1,
+      "name": "Nacional",
+      "short_name": "NAC",
+      "city": "Montevideo",
+      "stadium": "Gran Parque Central",
+      "logo_key": "nacional",
+      "is_placeholder": false
+    },
+    {
+      "id": 2,
+      "name": "Peñarol",
+      "short_name": "PEN",
+      "city": "Montevideo",
+      "stadium": "Campeón del Siglo",
+      "logo_key": "penarol",
+      "is_placeholder": false
+    },
+    {
+      "id": 3,
+      "name": "Danubio",
+      "short_name": "DAN",
+      "city": "Montevideo",
+      "stadium": "Jardines del Hipódromo",
+      "logo_key": "danubio",
+      "is_placeholder": false
+    },
+    {
+      "id": 4,
+      "name": "Defensor",
+      "short_name": "DEF",
+      "city": "Montevideo",
+      "stadium": "Franzini",
+      "logo_key": "defensor",
+      "is_placeholder": false
+    },
+    {
+      "id": 5,
+      "name": "Liverpool",
+      "short_name": "LIV",
+      "city": "Montevideo",
+      "stadium": "Belvedere",
+      "logo_key": "liverpool",
+      "is_placeholder": false
+    },
+    {
+      "id": 6,
+      "name": "Wanderers",
+      "short_name": "MW",
+      "city": "Montevideo",
+      "stadium": "Parque Viera",
+      "logo_key": "wanderers",
+      "is_placeholder": false
+    },
+    {
+      "id": 7,
+      "name": "Cerro Largo",
+      "short_name": "CEL",
+      "city": "Melo",
+      "stadium": "Arquitecto Ubilla",
+      "logo_key": "cerro-largo",
+      "is_placeholder": false
+    },
+    {
+      "id": 8,
+      "name": "Boston River",
+      "short_name": "BR",
+      "city": "Montevideo",
+      "stadium": "Parque Artigas",
+      "logo_key": "boston-river",
+      "is_placeholder": false
+    },
+    {
+      "id": 9,
+      "name": "Racing",
+      "short_name": "RAC",
+      "city": "Montevideo",
+      "stadium": "Parque Roberto",
+      "logo_key": "racing",
+      "is_placeholder": true
+    },
+    {
+      "id": 10,
+      "name": "River Plate",
+      "short_name": "RIV",
+      "city": "Montevideo",
+      "stadium": "Parque Saroldi",
+      "logo_key": "river-plate",
+      "is_placeholder": false
+    },
+    {
+      "id": 11,
+      "name": "Cerro",
+      "short_name": "CER",
+      "city": "Montevideo",
+      "stadium": "Luis Tróccoli",
+      "logo_key": "cerro",
+      "is_placeholder": true
+    },
+    {
+      "id": 12,
+      "name": "Plaza Colonia",
+      "short_name": "PLC",
+      "city": "Colonia",
+      "stadium": "Juan Gaspar Prandi",
+      "logo_key": "plaza-colonia",
+      "is_placeholder": true
+    },
+    {
+      "id": 13,
+      "name": "Progreso",
+      "short_name": "PRO",
+      "city": "Montevideo",
+      "stadium": "Abdón Porte",
+      "logo_key": "progreso",
+      "is_placeholder": true
+    },
+    {
+      "id": 14,
+      "name": "Miramar Misiones",
+      "short_name": "MIR",
+      "city": "Montevideo",
+      "stadium": "Luis Franzini",
+      "logo_key": "miramar-misiones",
+      "is_placeholder": true
+    },
+    {
+      "id": 15,
+      "name": "Juventud de Las Piedras",
+      "short_name": "JDP",
+      "city": "Las Piedras",
+      "stadium": "Parque Artigas Las Piedras",
+      "logo_key": "juventud-las-piedras",
+      "is_placeholder": true
+    },
+    {
+      "id": 16,
+      "name": "Torque",
+      "short_name": "MCT",
+      "city": "Montevideo",
+      "stadium": "Parque Viera",
+      "logo_key": "torque",
+      "is_placeholder": false
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+﻿# paquete auf_analyzer
+

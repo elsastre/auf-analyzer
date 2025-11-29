@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.log
+*.cache
+data/*
+!data/standings_uruguay_sample.csv
+!data/seeds/
+data_uruguay/
+
+/src/*.egg-info/
